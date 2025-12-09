@@ -26,7 +26,7 @@ print(length)
 
 #task5
 #rules of variable naming in Python
-name = "Bharath" #descriptive names
+name = "BharathKalluru" #descriptive names
 # length 1 = len(name) - no spaces
 length1 = len(name) #can use numbers in variable name
 #1length = len(name) #don't start the variable name with a number

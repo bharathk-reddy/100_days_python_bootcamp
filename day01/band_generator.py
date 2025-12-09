@@ -1,4 +1,4 @@
-#Band generator
+#Band Name generator
 print("Hey buddy! Welcome to BanD naME geneRatOR")
 city_name = input("What is your born city name? \n")
 print("Birth city is "+city_name )
